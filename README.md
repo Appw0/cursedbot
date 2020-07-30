@@ -1,0 +1,2 @@
+# cursedbot
+a cursed bot
