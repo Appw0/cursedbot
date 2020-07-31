@@ -37,4 +37,4 @@ async def on_ready():
 #         print(error)
 
 
-bot.run('NzM4NTA0OTI1NjgzNjQ2NTk1.XyM4Tw.aajXFbCUxmmuwKti8Gn4keXoQ8c', bot=True, reconnect=True)
+bot.run('', bot=True, reconnect=True)
