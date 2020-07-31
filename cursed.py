@@ -35,6 +35,7 @@ async def on_ready():
 #         print('no found')
 #     else:
 #         print(error)
+with open('token.txt') as f:
+    token = f.readline()
 
-
-bot.run('', bot=True, reconnect=True)
+bot.run(token, bot=True, reconnect=True)
